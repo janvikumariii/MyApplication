@@ -3,8 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/drawable/border.xml" value="0.26510416666666664" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/drawable/doctor_monochromatic.xml" value="0.14270833333333333" />
         <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/drawable/textinputborder.xml" value="0.1" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/activity_queue1.xml" value="0.4" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/activity_queue2.xml" value="0.4" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/activity_sign_up.xml" value="0.4" />
+        <entry key="..\:/Users/janvi/Downloads/MyApplication/app/src/main/res/layout/signup.xml" value="0.24895833333333334" />
       </map>
     </option>
   </component>
